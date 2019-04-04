@@ -7,7 +7,7 @@
 <shell 1>
 1. gdb-multiarch -q
 
-<gdb-shell>
+[gdb]
 1. layout regs
 2. target remote :1234
 3. si
